@@ -1,0 +1,27 @@
+1   / Lenovo               / Ryzen5         / 8GB    /20150
+2   / Asus ZenBook         / IntelCorei5    / 8GB    /20800
+3   / Acer Aspire          / Ryzen5         / 8GB    /19150
+4   / Lenovo Ideapad5      / Ryzen5         / 8GB    /11990
+5   / Lenovo IdeaPad3      / IntelCorei3    / 4GB    /9049
+6   / Lenovo IdeaPadS34    / IntelCorei5    / 8GB    /12299
+7   / Apple MacBook        / IntelCorei3    / 8GB    /21990 
+8   / ACER Nitro           / IntelCorei7    / 16GB   /25899
+9   / Lenovo               / Ryzen5         / 8GB    /20150
+10  / Asus ZenBook         / IntelCorei5    / 8GB    /20800
+11  / Acer Aspire          / Ryzen5         / 8GB    /19150
+12  / Lenovo Ideapad5      / Ryzen5         / 8GB    /11990
+13  / Lenovo IdeaPad3      / IntelCorei3    / 4GB    /9049
+14  / Lenovo IdeaPadS34    / IntelCorei5    / 8GB    /12299
+15  / Apple MacBook        / IntelCorei3    / 8GB    /21990 
+16  / ACER Nitro           / IntelCorei7    / 16GB   /25899
+17  / Lenovo Ideapad5      / Ryzen5         / 8GB    /11990
+18  / Lenovo IdeaPad3      / IntelCorei3    / 4GB    /9049
+19  / Lenovo IdeaPadS34    / IntelCorei5    / 8GB    /12299
+20  / Apple MacBook        / IntelCorei3    / 8GB    /21990 
+21  / ACER Nitro           / IntelCorei7    / 16GB   /25899
+22  / Lenovo               / Ryzen5         / 8GB    /20150
+23  / Lenovo IdeaPadS34    / IntelCorei5    / 8GB    /12299
+24  / Apple MacBook        / IntelCorei3    / 8GB    /21990 
+25  / ACER Nitro           / IntelCorei7    / 16GB   /25899
+26  / Lenovo               / Ryzen5         / 8GB    /20150
+27  / Asus ZenBook         / IntelCorei5    / 8GB    /20800
